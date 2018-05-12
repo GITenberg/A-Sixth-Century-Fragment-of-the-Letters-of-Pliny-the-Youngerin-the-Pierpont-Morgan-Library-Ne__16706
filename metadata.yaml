@@ -1,0 +1,41 @@
+_repo: A-Sixth-Century-Fragment-of-the-Letters-of-Pliny-the-Youngerin-the-Pierpont-Morgan-Library-Ne__16706
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lowe, E. A. (Elias Avery)
+    alias: Lowe, Elias Avery
+    birthdate: 1879
+    deathdate: 1969
+    gutenberg_agent_id: '6881'
+    url: http://www.gutenberg.org/2009/agents/6881
+  - agent_name: Rand, Edward Kennard
+    alias: Rand, E. K. (Edward Kennard)
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '6882'
+    url: http://www.gutenberg.org/2009/agents/6882
+description: ''
+gutenberg_issued: '2005-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16706'
+  lccn: '22025027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manuzio, Aldo, 1449 or 50-1515'
+- !lcsh 'Manuscripts, Latin -- Facsimiles'
+- !lcc 'PA'
+- !lcsh 'Pliny, the Younger -- Correspondence'
+- !lcsh 'Paleography, Latin'
+title: 'A Sixth-Century Fragment of the Letters of Pliny the Younger
+
+  A Study of Six Leaves of an Uncial Manuscript Preserved
+
+  in the Pierpont Morgan Library New York'
+url: http://www.gutenberg.org/ebooks/16706
