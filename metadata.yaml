@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '6882'
     url: http://www.gutenberg.org/2009/agents/6882
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16706#A-Sixth-Century-Fragment-of-the-Letters-of-Pliny-the-Youngerin-the-Pierpont-Morgan-Library-Ne_
 gutenberg_issued: '2005-09-17'
 gutenberg_type: Text
 identifiers:
